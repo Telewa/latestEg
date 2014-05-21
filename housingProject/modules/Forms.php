@@ -115,9 +115,9 @@ class Forms {
                                         </div>
                                         <div class="input"> <label>Commencement of duty </label> <input type="date" id="CommencementOfDuty"/>
                                         </div>
-                                        <div class="input"> <label>Department </label> <input type="date" id="Department"/>
+                                        <div class="input"> <label>Department </label> <input type="text" id="Department"/>
                                         </div>
-                                        <div class="input"> <label>Head of department </label> <input type="date" id="HeadOfDepartment"/>
+                                        <div class="input"> <label>Head of department </label> <input type="text" id="HeadOfDepartment"/>
                                         </div>
                                     </div>
 
