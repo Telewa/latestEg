@@ -29,7 +29,9 @@ class Forms {
             
             //set up the datepickers
             $(document).ready(function (){
-                $('input[type=date]').datepicker();
+                $('input[type=date]').datepicker({
+                    dateFormat: 'yy-mm-dd'
+                });
             })
         </script>
         
